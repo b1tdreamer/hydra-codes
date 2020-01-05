@@ -3,6 +3,7 @@ s0.initScreen()
 src(s0)
   	.out(o0)
 
+
 osc(0.2,0.1,9)
 	.kaleid(9)
 	.colorama(4)
